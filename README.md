@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding,android Development and Java programming.
 - 🌱 I’m currently learning Civil Engeering.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  @nuthujohnte@gmail.com.
+- 📫 How to reach me  @jomnucontractors.
 
 <!---
 jomnucontractors/jomnucontractors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
